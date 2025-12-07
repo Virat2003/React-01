@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+
+
+input{
+  margin: 10px;
+  padding: 20px;
+}
+
+.box{
+  background-color: orange;
+  height:100px;
+  width: 100px;
+}
+
+.page1{
+  height: 200vh;
+  width: 200vh;
+  background-color: red;
+}
+
+.page2{
+  height: 200vh;
+  width: 200vh;
+  background-color: blue;
+
+}

@@ -1,0 +1,122 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+  }
+
+
+body {
+      height: 100vh;
+      width: 100vw;
+      }
+
+
+/* .parent {
+  width: 100%;
+  background-color: #111;
+  padding: 30px;
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+
+.profile-card {
+  width: 280px;
+  background: #fff;
+  padding: 25px;
+  border-radius: 18px;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.price {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-weight: 600;
+  color: #555;
+}
+
+.profile-img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: 10px;
+}
+
+.name {
+  margin-top: 12px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.role {
+  font-size: 13px;
+  color: gray;
+  margin-bottom: 8px;
+}
+
+.status {
+  color: #0bb34b;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  background: #0bb34b;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 15px;
+}
+
+.skills span {
+  padding: 4px 10px;
+  background: #f1f1f1;
+  border-radius: 25px;
+  font-size: 12px;
+  color: #555;
+  cursor: default;
+}
+
+.skills .more {
+  background: #1273ea;
+  color: #fff;
+}
+
+.desc {
+  font-size: 12px;
+  color: #555;
+  margin-bottom: 20px;
+  padding: 0 5px;
+}
+
+.view-btn {
+  border: none;
+  outline: none;
+  background: transparent;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+  color: #1273ea;
+  font-size: 14px;
+  cursor: pointer;
+  width: 100%;
+  font-weight: 600;
+} */

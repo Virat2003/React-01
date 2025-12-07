@@ -1,0 +1,28 @@
+*{
+  padding:0px;
+  margin: 0px;
+  background-color: black;
+}
+
+button{
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+h1{
+    background-color: gainsboro;
+    width: fit-content;
+    padding:20px 90px;
+    font-size: 100px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+input, button{
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 100px;
+  background-color: ;
+}

@@ -1,0 +1,13 @@
+.header{
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
